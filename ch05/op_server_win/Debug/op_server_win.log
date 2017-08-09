@@ -1,0 +1,3 @@
+﻿  op_server_win.c
+d:\workspace_c_tcpip\ch05\op_server_win\op_server_win.c(47): warning C4133: '함수' : 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  op_server_win.vcxproj -> D:\Workspace_C_TCPIP\ch05\Debug\op_server_win.exe

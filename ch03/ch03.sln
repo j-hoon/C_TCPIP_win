@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "endian_conv_win", "endian_conv_win\endian_conv_win.vcxproj", "{EDE9FF43-7FCF-4F41-8418-C58E59D236BB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inet_adrconv_win", "inet_adrconv_win\inet_adrconv_win.vcxproj", "{E60656C2-4501-47D1-ACCF-09801E422E3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conv_addr_win", "conv_addr_win\conv_addr_win.vcxproj", "{73506531-22C0-47DC-BB36-7E86AC456CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE9FF43-7FCF-4F41-8418-C58E59D236BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDE9FF43-7FCF-4F41-8418-C58E59D236BB}.Debug|Win32.Build.0 = Debug|Win32
+		{EDE9FF43-7FCF-4F41-8418-C58E59D236BB}.Release|Win32.ActiveCfg = Release|Win32
+		{EDE9FF43-7FCF-4F41-8418-C58E59D236BB}.Release|Win32.Build.0 = Release|Win32
+		{E60656C2-4501-47D1-ACCF-09801E422E3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E60656C2-4501-47D1-ACCF-09801E422E3C}.Debug|Win32.Build.0 = Debug|Win32
+		{E60656C2-4501-47D1-ACCF-09801E422E3C}.Release|Win32.ActiveCfg = Release|Win32
+		{E60656C2-4501-47D1-ACCF-09801E422E3C}.Release|Win32.Build.0 = Release|Win32
+		{73506531-22C0-47DC-BB36-7E86AC456CA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73506531-22C0-47DC-BB36-7E86AC456CA0}.Debug|Win32.Build.0 = Debug|Win32
+		{73506531-22C0-47DC-BB36-7E86AC456CA0}.Release|Win32.ActiveCfg = Release|Win32
+		{73506531-22C0-47DC-BB36-7E86AC456CA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
