@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uecho_server_win", "uecho_server_win\uecho_server_win.vcxproj", "{3339D1F5-69AF-4DFB-A59A-2D98CA1D39EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uecho_client_win", "uecho_client_win\uecho_client_win.vcxproj", "{B381CB3C-06CF-42CF-8515-E9D60DDF29CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3339D1F5-69AF-4DFB-A59A-2D98CA1D39EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3339D1F5-69AF-4DFB-A59A-2D98CA1D39EC}.Debug|Win32.Build.0 = Debug|Win32
+		{3339D1F5-69AF-4DFB-A59A-2D98CA1D39EC}.Release|Win32.ActiveCfg = Release|Win32
+		{3339D1F5-69AF-4DFB-A59A-2D98CA1D39EC}.Release|Win32.Build.0 = Release|Win32
+		{B381CB3C-06CF-42CF-8515-E9D60DDF29CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B381CB3C-06CF-42CF-8515-E9D60DDF29CB}.Debug|Win32.Build.0 = Debug|Win32
+		{B381CB3C-06CF-42CF-8515-E9D60DDF29CB}.Release|Win32.ActiveCfg = Release|Win32
+		{B381CB3C-06CF-42CF-8515-E9D60DDF29CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
