@@ -1,0 +1,3 @@
+﻿  echo_selectserv_win.c
+d:\workspace_c_tcpip\c_tcpip_win\ch12\echo_selectserv_win\echo_selectserv_win.c(56): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+  echo_selectserv_win.vcxproj -> D:\Workspace_C_TCPIP\C_TCPIP_win\ch12\Debug\echo_selectserv_win.exe
