@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oob_send_win", "oob_send_win\oob_send_win.vcxproj", "{5079BF96-974D-40F7-99A0-4B60F8EB5373}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oob_recv_win", "oob_recv_win\oob_recv_win.vcxproj", "{A863B49F-5B3D-49E3-B187-C816ED81E3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5079BF96-974D-40F7-99A0-4B60F8EB5373}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5079BF96-974D-40F7-99A0-4B60F8EB5373}.Debug|Win32.Build.0 = Debug|Win32
+		{5079BF96-974D-40F7-99A0-4B60F8EB5373}.Release|Win32.ActiveCfg = Release|Win32
+		{5079BF96-974D-40F7-99A0-4B60F8EB5373}.Release|Win32.Build.0 = Release|Win32
+		{A863B49F-5B3D-49E3-B187-C816ED81E3FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A863B49F-5B3D-49E3-B187-C816ED81E3FF}.Debug|Win32.Build.0 = Debug|Win32
+		{A863B49F-5B3D-49E3-B187-C816ED81E3FF}.Release|Win32.ActiveCfg = Release|Win32
+		{A863B49F-5B3D-49E3-B187-C816ED81E3FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
